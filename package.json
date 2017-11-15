@@ -1,0 +1,26 @@
+{
+  "name": "html-tool",
+  "version": "0.0.1",
+  "description": "parser html and generate html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vicwang163/html-tool.git"
+  },
+  "keywords": [
+    "html",
+    "parser"
+  ],
+  "author": "vic.wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vicwang163/html-tool/issues"
+  },
+  "homepage": "https://github.com/vicwang163/html-tool#readme",
+  "dependencies": {
+    "htmlparser2": "^3.9.2"
+  }
+}
