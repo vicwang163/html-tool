@@ -6,7 +6,7 @@ It's used to parse html and generate html
 #### parse(str, opt)
 
 属性 | 说明 | 类型
------|-----|-----|------
+-----|-----|-----
 str | html字符串 | String 
 opt | 请查看htmlparser2的opt参数 | Object
 
